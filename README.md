@@ -19,6 +19,7 @@ The E-Commerce Website Homepage showcases a static design for the homepage of an
 
 - **HTML**
 - **CSS**
+- **JavaScript**
 
 ## Disclaimer
 
